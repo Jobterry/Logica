@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pregunta6
+comment1.params=grid
+comment1.target=int\ numIslands(char[][])
+comment2.params=grid\ i\ j
+comment2.target=void\ dfs(char[][],\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
